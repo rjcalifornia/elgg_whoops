@@ -1,0 +1,12 @@
+{
+    "name": "open_gov/elgg_whoops",
+	"type": "elgg-plugin",
+	"description": "Integrating the Whoops error handler framework in elgg. It also brings enviroment variables usage into elgg",
+	"license": "GPL-2.0-only",
+	"keywords": ["content", "widget"],
+	"homepage": "https://elgg.org",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "filp/whoops": "^2.14"
+    }
+}
