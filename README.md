@@ -13,6 +13,7 @@ This is a quick and dirt integration of Whoops into elgg. It uses the [PHP Doten
 - Clone this repository, and run ``` composer install ```
 - Copy the  ``` .env.example ``` file to  ``` .env ``` 
 - Change  ``` APP_ENV=prod ```  to  ``` APP_ENV=dev ``` 
+- Log into elgg as an Administrator, and activate the plugin
 - Place the plugin at the bottom of the page
 
 #### Features
